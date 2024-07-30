@@ -28,7 +28,7 @@ This repository contains a simple chatbot built using the Gemini API and Python.
     ```bash
     pip install -r requirements.txt
     ```
-4. Obtain a Gemini API key and configure it in `config.py`
+4. Obtain a Gemini API key and configure it in `main.py`
 
 ## Usage
 
