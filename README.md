@@ -34,4 +34,4 @@ This repository contains a simple chatbot built using the Gemini API and Python.
 
 Run the chatbot script:
 ```bash
-python chatbot.py
+python main.py
